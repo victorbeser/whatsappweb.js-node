@@ -34,7 +34,7 @@
     "fluent-ffmpeg": "2.1.2",
     "fs-extra": "^10.1.0",
     "mime": "^3.0.0",
-    "node-fetch": "^2.6.9",
+    "node-fetch": "^3.3.2",
     "node-webpmux": "3.1.7",
     "puppeteer": "^18.2.1",
     "unzipper": "^0.10.11"

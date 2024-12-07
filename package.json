@@ -69,7 +69,7 @@
   "main": "./index.js",
   "name": "whatsapp-web.js",
   "optionalDependencies": {
-    "archiver": "^5.3.1",
+    "archiver": "^7.0.1",
     "fs-extra": "^10.1.0",
     "unzipper": "^0.10.11"
   },
